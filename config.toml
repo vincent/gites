@@ -2,6 +2,7 @@ baseURL = "http://fr.gites-en-sologne.com"
 languageCode = "en-us"
 title = "Gîtes en Sologne"
 theme = "sodium"
+publishDir = "docs"
 
 defaultContentLanguage = "en"
 enableMissingTranslationPlaceholders = "true"
