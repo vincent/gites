@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://en.gites-en-sologne.com/en/categories/</loc>
+    <loc>http://vincent.github.io/gites/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://fr.gites-en-sologne.com/categories/"
+                href="http://vincent.github.io/gites/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://en.gites-en-sologne.com/en/categories/"
+                href="http://vincent.github.io/gites/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://en.gites-en-sologne.com/en/</loc>
+    <loc>http://vincent.github.io/gites/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://fr.gites-en-sologne.com/"
+                href="http://vincent.github.io/gites/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://en.gites-en-sologne.com/en/"
+                href="http://vincent.github.io/gites/en/"
                 />
   </url>
   
   <url>
-    <loc>http://en.gites-en-sologne.com/en/tags/</loc>
+    <loc>http://vincent.github.io/gites/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://fr.gites-en-sologne.com/tags/"
+                href="http://vincent.github.io/gites/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://en.gites-en-sologne.com/en/tags/"
+                href="http://vincent.github.io/gites/en/tags/"
                 />
   </url>
   

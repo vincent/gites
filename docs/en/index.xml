@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sologne&#39;s country homes</title>
-    <link>http://en.gites-en-sologne.com/en/</link>
+    <link>http://vincent.github.io/gites/en/</link>
     <description>Recent content on Sologne&#39;s country homes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://en.gites-en-sologne.com/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vincent.github.io/gites/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,4 +1,4 @@
-baseURL = "http://fr.gites-en-sologne.com"
+baseURL = "http://vincent.github.io/gites"
 languageCode = "en-us"
 title = "Gîtes en Sologne"
 theme = "sodium"
@@ -10,13 +10,13 @@ enableMissingTranslationPlaceholders = "true"
 
 [languages]
     [languages.fr]
-        baseURL = "http://fr.gites-en-sologne.com"
+        baseURL = "http://vincent.github.io/gites/fr"
         code = "fr"
         languageName = "Français"
         title = "Gîte en Sologne"
         weight = 1
     [languages.en]
-        baseURL = "http://en.gites-en-sologne.com/en"
+        baseURL = "http://vincent.github.io/gites/en"
         code = "en"
         languageName = "English"
         title = "Sologne's country homes"
