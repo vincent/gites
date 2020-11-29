@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sologne&#39;s country homes</title>
+    <link>http://en.gites-en-sologne.com/en/</link>
+    <description>Recent content on Sologne&#39;s country homes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://en.gites-en-sologne.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

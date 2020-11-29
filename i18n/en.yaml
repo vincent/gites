@@ -1,0 +1,20 @@
+- id: cover.title
+  translation: "Sologne's country homes"
+- id: cover.description
+  translation: "A sort desc"
+- id: cover.button
+  translation: "Contact us"
+- id: contact.title
+  translation: "Contact"
+- id: contact.address
+  translation: "Address"
+- id: contact.email
+  translation: "Email"
+- id: contact.phone
+  translation: "Phone"
+- id: "contact.name"
+  translation: "Name"
+- id: "contact.message"
+  translation: "Message"
+- id: "contact.submit"
+  translation: "Submit"

@@ -1,0 +1,19 @@
+{{ .Scratch.Set "navbarType" "transparent" }}
+
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+{{ $globalData := . }}
+
+{{ partial "cover.html" $globalData }}
+
+{{ range .Site.Params.gites }}
+	{{ partial "gite.html" . }}
+{{ end }}
+
+{{ partial "village.html" $globalData }}
+{{ partial "pricing.html" $globalData }}
+{{ partial "contact.html" $globalData }}
+
+{{ partial "footer.html" . }}
+{{ partial "footer-end.html" . }}

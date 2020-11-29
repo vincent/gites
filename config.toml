@@ -1,0 +1,111 @@
+baseURL = "http://fr.gites-en-sologne.com"
+languageCode = "en-us"
+title = "Gîtes en Sologne"
+theme = "sodium"
+
+defaultContentLanguage = "en"
+enableMissingTranslationPlaceholders = "true"
+
+
+[languages]
+    [languages.fr]
+        baseURL = "http://fr.gites-en-sologne.com"
+        code = "fr"
+        languageName = "Français"
+        title = "Gîte en Sologne"
+        weight = 1
+    [languages.en]
+        baseURL = "http://en.gites-en-sologne.com/en"
+        code = "en"
+        languageName = "English"
+        title = "Sologne's country homes"
+        weight = 2
+
+[params]
+    [params.cover]
+        image = "flower1.jpg"
+        [params.cover.button]
+            text = "Contact"
+            href = "/#contact"
+
+    [params.contact]
+        address = "26, rue des Prés"
+        address2 = "41210 Neung sur Beuvron"
+        phone = "02 54 83 66 67"
+        email = "anthony.lark@laposte.net"
+
+    [params.village]
+        id = "village"
+        title = "Le village"
+        cover = "images/gites/cover-village.jpg"
+        description = "Catch phrase pour village"
+        [[params.village.content]]
+            icon = "bell"
+            title = "Feature 1"
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
+        [[params.village.content]]
+            icon = "rocket"
+            title = "Feature 2"
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
+        [[params.village.content]]
+            icon = "clock"
+            title = "Feature 3"
+            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+
+    [params.gites]
+        [params.gites.alouettes]
+            id = "alouettes"
+            title = "Les Alouettes"
+            cover = "images/gites/cover-alouettes.jpg"
+            description = "Catch phrase pour Les Alouettes"
+            giteUrl = "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G758.G.html"
+            [[params.gites.alouettes.content]]
+                icon = "users"
+                title = "Feature 1"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
+            [[params.gites.alouettes.content]]
+                icon = "bed"
+                title = "Feature 2"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
+            [[params.gites.alouettes.content]]
+                icon = "clock"
+                title = "Feature 3"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+
+        [params.gites.hirondelles]
+            id = "hirondelles"
+            title = "Les Hirondelles"
+            cover = "images/gites/cover-hirondelles.jpg"
+            description = "Catch phrase pour Les hirondelles"
+            giteUrl = "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G758.G.html"
+            [[params.gites.hirondelles.content]]
+                icon = "users"
+                title = "Feature 1"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
+            [[params.gites.hirondelles.content]]
+                icon = "bed"
+                title = "Feature 2"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
+            [[params.gites.hirondelles.content]]
+                icon = "clock"
+                title = "Feature 3"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+
+        [params.gites.pierrette]
+            id = "pierrette"
+            title = "La Pierrette"
+            cover = "images/gites/cover-pierrette.jpg"
+            description = "Catch phrase pour La Pierrette"
+            giteUrl = "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G758.G.html"
+            [[params.gites.pierrette.content]]
+                icon = "users"
+                title = "Feature 1"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
+            [[params.gites.pierrette.content]]
+                icon = "bed"
+                title = "Feature 2"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
+            [[params.gites.pierrette.content]]
+                icon = "clock"
+                title = "Feature 3"
+                description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "

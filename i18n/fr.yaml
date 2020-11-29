@@ -1,0 +1,20 @@
+- id: cover.title
+  translation: "Gites en Sologne"
+- id: cover.description
+  translation: "Une courte description"
+- id: cover.button
+  translation: "Contactez-nous"
+- id: contact.title
+  translation: "Contact"
+- id: contact.address
+  translation: "Adresse"
+- id: contact.email
+  translation: "Email"
+- id: contact.phone
+  translation: "Téléphone"
+- id: "contact.name"
+  translation: "Nom"
+- id: "contact.message"
+  translation: "Message"
+- id: "contact.submit"
+  translation: "Envoyer"

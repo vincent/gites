@@ -1,0 +1,33 @@
+{
+  "title" : "Pricing",
+  "description" : "Pricing subtitle",
+  "content" : [
+    {
+      "title" : "Starter",
+      "price" : "$30",
+      "features" : [
+        "No setup, monthly, or hidden fees",
+        "Pay only for what you use",
+        "Real-time fee reporting"
+      ],
+      "button" : {
+        "text" : "Réserver",
+        "href" : "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G868.G.html"
+      }
+    },
+    {
+      "title" : "Advance",
+      "price" : "$90",
+      "features" : [
+        "All features of Starter Pack",
+        "Feature number 2",
+        "Feature number 3",
+        "Feature number 4"
+      ],
+      "button" : {
+        "text" : "Réserver",
+        "href" : "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G868.G.html"
+      }
+    }
+  ]
+}
