@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gîte en Sologne</title>
-    <link>https://vincent.github.io/gites/</link>
+    <link>https://vincent.github.io/gites/fr/</link>
     <description>Recent content on Gîte en Sologne</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://vincent.github.io/gites/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vincent.github.io/gites/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>La Pierrette</title>
-      <link>https://vincent.github.io/gites/gite/pierrette/</link>
+      <link>https://vincent.github.io/gites/fr/gite/pierrette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent.github.io/gites/gite/pierrette/</guid>
+      <guid>https://vincent.github.io/gites/fr/gite/pierrette/</guid>
       <description>Petite maison typiquement solognote entièrement rénovée.
 Gîte idéal pour les pêcheurs, randonneurs et cyclistes, au coeur des 200 km de chemins de la Sologne des Etangs et dans le village de Neung sur Beuvron.
    Jardin
@@ -26,10 +26,10 @@ Tout en rez de chaussée
     
     <item>
       <title>Le village</title>
-      <link>https://vincent.github.io/gites/gite/village/</link>
+      <link>https://vincent.github.io/gites/fr/gite/village/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent.github.io/gites/gite/village/</guid>
+      <guid>https://vincent.github.io/gites/fr/gite/village/</guid>
       <description>Neung sur Beuvron a 1200 habitants et se trouve au centre de la Sologne des Etangs.
 Le village de Neung existe depuis plus de 2 mille ans – il n’est pas rare de trouver des pièces romaines lorsque nous bêchons le jardin !
 C’est à cause de son nom romain, Noviodunum, que nous nous nommons les Noviodunois.
@@ -39,10 +39,10 @@ C’est à cause de son nom romain, Noviodunum, que nous nous nommons les Noviod
     
     <item>
       <title>Les Alouettes</title>
-      <link>https://vincent.github.io/gites/gite/alouettes/</link>
+      <link>https://vincent.github.io/gites/fr/gite/alouettes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent.github.io/gites/gite/alouettes/</guid>
+      <guid>https://vincent.github.io/gites/fr/gite/alouettes/</guid>
       <description>Maison ancienne rénovée.
 Gîte idéal pour les randonneurs pédestres et cyclistes au coeur de 200 km de chemins de la Sologne des étangs, dans le village de Neung sur Beuvron.
    Chambre 1
@@ -55,10 +55,10 @@ Gîte idéal pour les randonneurs pédestres et cyclistes au coeur de 200 km de 
     
     <item>
       <title>Les Hirondelles</title>
-      <link>https://vincent.github.io/gites/gite/hirondelles/</link>
+      <link>https://vincent.github.io/gites/fr/gite/hirondelles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vincent.github.io/gites/gite/hirondelles/</guid>
+      <guid>https://vincent.github.io/gites/fr/gite/hirondelles/</guid>
       <description>Maison ancienne rénovée.
 Gîte idéal pour les randonneurs pédestres et cyclistes au coeur de 200 km de chemins de la Sologne des Etangs, dans le village de Neung sur Beuvron.
    Acces aux chambres

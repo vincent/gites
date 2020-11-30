@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vincent.github.io/gites/categories/</loc>
+    <loc>https://vincent.github.io/gites/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -12,12 +12,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/categories/"
+                href="https://vincent.github.io/gites/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/gite/</loc>
+    <loc>https://vincent.github.io/gites/fr/gite/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -26,12 +26,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/gite/"
+                href="https://vincent.github.io/gites/fr/gite/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/</loc>
+    <loc>https://vincent.github.io/gites/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -40,12 +40,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/"
+                href="https://vincent.github.io/gites/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/gite/pierrette/</loc>
+    <loc>https://vincent.github.io/gites/fr/gite/pierrette/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,12 +54,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/gite/pierrette/"
+                href="https://vincent.github.io/gites/fr/gite/pierrette/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/gite/village/</loc>
+    <loc>https://vincent.github.io/gites/fr/gite/village/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,12 +68,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/gite/village/"
+                href="https://vincent.github.io/gites/fr/gite/village/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/gite/alouettes/</loc>
+    <loc>https://vincent.github.io/gites/fr/gite/alouettes/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -82,12 +82,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/gite/alouettes/"
+                href="https://vincent.github.io/gites/fr/gite/alouettes/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/gite/hirondelles/</loc>
+    <loc>https://vincent.github.io/gites/fr/gite/hirondelles/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -96,12 +96,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/gite/hirondelles/"
+                href="https://vincent.github.io/gites/fr/gite/hirondelles/"
                 />
   </url>
   
   <url>
-    <loc>https://vincent.github.io/gites/tags/</loc>
+    <loc>https://vincent.github.io/gites/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -110,7 +110,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://vincent.github.io/gites/tags/"
+                href="https://vincent.github.io/gites/fr/tags/"
                 />
   </url>
   
