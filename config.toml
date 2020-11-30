@@ -1,4 +1,4 @@
-baseURL = "http://vincent.github.io/gites"
+baseURL = "http://vincent.github.io/gites/"
 languageCode = "en-us"
 title = "Gîtes en Sologne"
 theme = "sodium"
@@ -10,7 +10,7 @@ enableMissingTranslationPlaceholders = "true"
 
 [languages]
     [languages.fr]
-        baseURL = "https://vincent.github.io/gites"
+        baseURL = "https://vincent.github.io/gites/"
         code = "fr"
         languageName = "Français"
         title = "Gîte en Sologne"
