@@ -1,9 +1,13 @@
 - id: cover.title
   translation: "Sologne's country homes"
 - id: cover.description
-  translation: "A sort desc"
+  translation: "We propose 3 Gites ruraux in Neung sur Beuvron – Sologne des Etangs"
 - id: cover.button
   translation: "Contact us"
+- id: pricing.title
+  translation: "Pricing"
+- id: pricing.button
+  translation: "Réservez"
 - id: contact.title
   translation: "Contact"
 - id: contact.address

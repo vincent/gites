@@ -1,9 +1,13 @@
 - id: cover.title
   translation: "Gites en Sologne"
 - id: cover.description
-  translation: "Une courte description"
+  translation: "Nous vous proposons 3 Gîtes ruraux à Neung sur Beuvron en Sologne des Etangs"
 - id: cover.button
   translation: "Contactez-nous"
+- id: pricing.title
+  translation: "Tarifs"
+- id: pricing.button
+  translation: "Réservez"
 - id: contact.title
   translation: "Contact"
 - id: contact.address
@@ -18,3 +22,11 @@
   translation: "Message"
 - id: "contact.submit"
   translation: "Envoyer"
+- id: "shortdesc.village"
+  translation: "Neung sur Beuvron a 1200 habitants et se trouve au centre de la Sologne des Etangs"
+- id: "shortdesc.alouettes"
+  translation: "Gîte idéal pour les randonneurs pédestres et cyclistes au coeur de 200 km de chemins de la Sologne des étangs"
+- id: "shortdesc.hirondelles"
+  translation: "Gîte idéal pour les randonneurs pédestres et cyclistes au coeur de 200 km de chemins de la Sologne des étangs"
+- id: "shortdesc.pierrette"
+  translation: "Gîte idéal pour les pêcheurs, randonneurs et cyclistes, au coeur des 200 km de chemins de la Sologne des Etangs"

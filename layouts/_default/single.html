@@ -1,0 +1,13 @@
+
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+<section class="single">
+    <div class="container">
+        <h2 class="pt-5 py-5 h2 text-center">{{ .Title }}</h2>
+        {{ .Content }}
+    </div>
+</section>
+
+{{ partial "footer.html" . }}
+{{ partial "footer-end.html" . }}

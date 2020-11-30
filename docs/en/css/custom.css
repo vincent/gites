@@ -1,0 +1,35 @@
+.nav-item-lang {
+    margin-left: 10px;
+}
+
+.divider {
+    height: 400px;
+    background: rgba(0,0,0,0.6);
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-attachment: scroll;
+        background-image: none;
+        background-size: auto;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 70%, 0 100%);
+}
+
+.description-bullets {
+    list-style-type: none;
+    padding-left: 0;
+    height: 180px;
+}
+
+.cover .sub-heading {
+    opacity: .9;
+}
+
+.feature-cover {
+    display:block;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: contain;
+}

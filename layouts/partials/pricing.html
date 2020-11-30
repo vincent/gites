@@ -1,10 +1,11 @@
-{{ $pricing := .Site.Data.pricing }}
-<section id="pricing" class="py-5">
+<section id="pricing" class="divider py-5" style="height: 700px; background-image: url('{{ "images/covers/flower1.jpg" | absURL }}')">
   <div class="container text-center">
-    <h2 class="pt-5 h2">{{ $pricing.title }}</h2>
-    <p class="text-muted pb-5">{{ $pricing.description }}</p>
+    <!--
+    <h2 class="pt-5 h2">{{ i18n "pricing.title" }}</h2>
+    <p class="text-muted pb-5">{{ i18n "pricing.description" }}</p>
+    -->
     <div class="row justify-content-md-center">
-      {{ range $pricing.content }}
+      {{ range .Site.Params.gites }}
         <div class="col-12 col-lg-3 col-md-6 col-sm-12 mb-4">
             <div class="pricing p-4">
               <h5 class="h5 title">{{ .title }}</h5>
@@ -15,9 +16,9 @@
                     <div class="my-2 text-muted"><i class="fa fa-check mr-3 text-success"></i>{{ . }}</div>
                   {{ end }}
               </div>
-              <a href="{{ .button.href | absURL }}" class="btn btn-outline-dark mt-4">
-                <img src="/images/gites-de-france.png" width="30" />
-                {{ .button.text }}
+              <a target="_blank" href="{{ .url }}" class="btn btn-outline-dark mt-4">
+                <img src="{{ "images/gites-de-france.png" | absURL }}" width="30" />
+                {{ i18n "pricing.button" }}
               </a>
             </div>
         </div>
@@ -26,9 +27,3 @@
     
   </div>
 </section>
-
-<style type="text/css">
-  #pricing{
-    background: linear-gradient(165deg, #ffffff 0%,#ffffff 45%,#fc5f3c 45%,#ff55d3 90%, #ffffff 90%, #ffffff 100%);
-  }
-</style>

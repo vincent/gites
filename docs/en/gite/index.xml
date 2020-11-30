@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gites on Sologne&#39;s country homes</title>
+    <link>https://vincent.github.io/gites/en/gite/</link>
+    <description>Recent content in Gites on Sologne&#39;s country homes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://vincent.github.io/gites/en/gite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Pierrette</title>
+      <link>https://vincent.github.io/gites/en/gite/pierrette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent.github.io/gites/en/gite/pierrette/</guid>
+      <description>   Jardin
+     </description>
+    </item>
+    
+    <item>
+      <title>La Pierrette</title>
+      <link>https://vincent.github.io/gites/en/gite/village/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent.github.io/gites/en/gite/village/</guid>
+      <description>   Bords du beuvron 1
+      La poste
+      Rue de neung 1
+      Rue de neung 2
+      Rue de neung 3
+     </description>
+    </item>
+    
+    <item>
+      <title>Les Alouettes</title>
+      <link>https://vincent.github.io/gites/en/gite/alouettes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent.github.io/gites/en/gite/alouettes/</guid>
+      <description>   Chambre 1
+      Chambre 2
+      Jardin
+      Living room
+      Salle a manger
+     </description>
+    </item>
+    
+    <item>
+      <title>Les Hirondelles</title>
+      <link>https://vincent.github.io/gites/en/gite/hirondelles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vincent.github.io/gites/en/gite/hirondelles/</guid>
+      <description>   Acces aux chambres
+      Chambre 1
+      Chambre 2
+      Chambre 3
+      Jardin
+      Living room
+      Parking
+      Salle manger
+     </description>
+    </item>
+    
+  </channel>
+</rss>

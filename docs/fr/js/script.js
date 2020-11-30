@@ -55,7 +55,7 @@ $(document).ready(function(){
   });
 
   //Smooth scroll
-  $('a').click(function(){
+  $('a:not([itemprop])').click(function(){
     var hash = $(this).attr('href').split('#')[1];
     $('html, body').animate({
         scrollTop: $('#' + hash).offset().top
@@ -69,7 +69,7 @@ $(document).ready(function(){
     var scroll = $(window).scrollTop();
 
      //>=, not <=
-    if (scroll >= 30) {
+    if (scroll >= 100) {
         //clearHeader, not clearheader - caps H
         $(".nav-transparent").removeClass("navbar-dark").addClass("navbar-light");
     } else {
