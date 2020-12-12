@@ -7,7 +7,7 @@
 - id: pricing.title
   translation: "Pricing"
 - id: pricing.button
-  translation: "Réservez"
+  translation: "Reserve"
 - id: contact.title
   translation: "Contact"
 - id: contact.address
@@ -22,3 +22,11 @@
   translation: "Message"
 - id: "contact.submit"
   translation: "Submit"
+  - id: "shortdesc.village"
+  translation: "Neung sur Beuvron has a population of 1,200 and is situated in the heart of the Sologne des Etangs"
+- id: "shortdesc.alouettes"
+  translation: "Ideal country home for hikers and cyclists with around 200km (125 mi) of hiking path in the Sologne des étangs"
+- id: "shortdesc.hirondelles"
+  translation: "Ideal country home for hikers and cyclists with around 200km (125 mi) of hiking path in the Sologne des étangs"
+- id: "shortdesc.pierrette"
+  translation: "Ideal country home for fishing enthusiasts, hikers and cyclists with around 200km (125 mi) of hiking path in the Sologne des étangs"
