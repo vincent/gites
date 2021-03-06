@@ -3,9 +3,19 @@
 <section id="contact" class="contact mt-5 p-3 p-lg-5 p-md-5">
 	<div class="container">
 
-		<center>
-			<h2 class="h2 my-5">{{ i18n "contact.title" }}</h2>
-		</center>
+		<center><h2 class="h2 my-5">{{ i18n "contact.title" }}</h2></center>
+		<div class="row justify-content-md-center">
+			<div class="col-6 col-lg-6 col-md-4 rounded text-dark p-5">
+				<div class="text-muted pb-2">{{ i18n "contact.description" }}</div>
+				<div class="mb-1">Tourisme Vert en Loir-et-Cher</div>
+				<div class="mb-1">2/4 Rue du Limousin</div>
+				<div class="mb-1">CS 91314</div>
+				<div class="mb-1">41013 BLOIS cedex</div>
+				<div class="mb-1">(+33) 2 54 58 81 64</div>
+				<div class="mb-1">gites41@orange.fr</div>
+			</div>
+			<div class="col-12 col-lg-4 col-md-4"></div>
+		</div>
 
 		<form action="https://formspree.io/{{ .Site.Params.contact.email }}" method="POST">
 			<div class="row justify-content-md-center">

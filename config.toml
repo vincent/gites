@@ -32,33 +32,45 @@ enableMissingTranslationPlaceholders = "true"
     [params.contact]
         address = "26, rue des Prés"
         address2 = "41210 Neung sur Beuvron"
-        phone = "02 54 83 66 67"
+        phone = "(+33) 2 54 83 66 67"
         email = "anthony.lark@laposte.net"
 
     [params.village]
         id = "village"
+        nopage = true
         title = "Le village"
         cover = "images/gites/cover-village.jpg"
-        description = "Catch phrase pour village"
+        footerlink = "http://www.neung-sur-beuvron.fr"
         [[params.village.content]]
-            icon = "bell"
-            title = "Feature 1"
-            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum tristique arcu, in tristique sapien commodo sodales. Vivamus condimentum quam mi."
+            icon = "shopping-bag"
+            bullets = [
+                "Boulangerie",
+                "3 restaurants",
+                "Bar-Tabac-PMU",
+                "Caviste – Bar à vins",
+            ]
+         [[params.village.content]]
+            icon = "leaf"
+            bullets = [
+                "Pharmacie et Centre médical",
+                "Fleuriste",
+                "Coiffeur",
+                "Institut de Beauté",
+            ]
         [[params.village.content]]
-            icon = "rocket"
-            title = "Feature 2"
-            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur, est sed vestibulum viverra, mi dui semper erat, non placerat dolor est"
-        [[params.village.content]]
-            icon = "clock"
-            title = "Feature 3"
-            description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in ornare orci, et posuere velit. Suspendisse tempor blandit augue, non. "
+            icon = "shopping-cart"
+            bullets = [
+                "Supermarché",
+                "Pompes à essence",
+                "Banque avec distributeur",
+                "Bureau de Poste",
+            ]
 
     [params.gites]
         [params.gites.alouettes]
             id = "alouettes"
             title = "Les Alouettes"
             cover = "images/gites/cover-alouettes.jpg"
-            description = "Catch phrase pour Les Alouettes"
             url = "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G758.G.html"
             [[params.gites.alouettes.content]]
                 icon = "users"
@@ -74,7 +86,7 @@ enableMissingTranslationPlaceholders = "true"
                 title = ""
                 description = ""
                 bullets = [
-                    "Cheminée",
+                    "Terrasse",
                     "Lave-linge",
                     "Lave-vaisselle",
                     "Micro-ondes",
@@ -87,13 +99,13 @@ enableMissingTranslationPlaceholders = "true"
                 bullets = [
                     "Télévision",
                     "Barbecue",
-                    "Salon de jardin"
+                    "Salon de jardin",
+                    "Local vélos"
                 ]
         [params.gites.hirondelles]
             id = "hirondelles"
             title = "Les Hirondelles"
             cover = "images/gites/cover-hirondelles.jpg"
-            description = "Catch phrase pour Les hirondelles"
             url = "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G758.G.html"
             [[params.gites.hirondelles.content]]
                 icon = "users"
@@ -109,7 +121,6 @@ enableMissingTranslationPlaceholders = "true"
                 title = ""
                 description = ""
                 bullets = [
-                    "Cheminée",
                     "Lave-linge",
                     "Lave-vaisselle",
                     "Micro-ondes",
@@ -122,14 +133,14 @@ enableMissingTranslationPlaceholders = "true"
                 bullets = [
                     "Télévision",
                     "Barbecue",
-                    "Salon de jardin"
+                    "Salon de jardin",
+                    "Local vélos"
                 ]
 
         [params.gites.pierrette]
             id = "pierrette"
             title = "La Pierrette"
             cover = "images/gites/cover-pierrette.jpg"
-            description = "Catch phrase pour La Pierrette"
             url = "http://www.gites-de-france-blois.com/location-vacances-gite-a-neung-sur-beuvron--gites41_b2012.1.G758.G.html"
             [[params.gites.pierrette.content]]
                 icon = "users"
@@ -155,6 +166,6 @@ enableMissingTranslationPlaceholders = "true"
                 description = ""
                 bullets = [
                     "Terrasse",
-                    "Barbecue",
+                    "Local vélos",
                     "Salon de jardin"
                 ]

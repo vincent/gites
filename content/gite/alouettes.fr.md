@@ -19,7 +19,7 @@ Rez de chaussée:
 
 Etage:
  - 1 chambre (1 lit 1,40 m), 
- - 1 chambre d'appoint (1 lit de 0.90m et 1 lit de 1.30m) pour 2 personnes supplémentaires (8 €/jour/personne) à régler au propriétaire.
+ - 1 chambre d'appoint (1 lit de 0.90m et 1 lit de 1.30m) pour 2 personnes supplémentaires (Supplément à régler au propriétaire).
 
 Chauffage fuel compris.
 
