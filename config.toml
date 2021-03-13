@@ -90,7 +90,6 @@ enableMissingTranslationPlaceholders = "true"
                     "Lave-linge",
                     "Lave-vaisselle",
                     "Micro-ondes",
-                    "Télévision"
                 ]
             [[params.gites.alouettes.content]]
                 icon = "clock"
@@ -124,7 +123,6 @@ enableMissingTranslationPlaceholders = "true"
                     "Lave-linge",
                     "Lave-vaisselle",
                     "Micro-ondes",
-                    "Télévision"
                 ]
             [[params.gites.hirondelles.content]]
                 icon = "clock"

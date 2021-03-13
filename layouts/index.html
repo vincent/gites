@@ -9,8 +9,8 @@
 
 {{ range .Site.Params.gites }}
 	{{ partial "gite.html" . }}
+	{{ partial "divider_top.html" "images/covers/flower2.jpg" }}
 	{{ partial "divider.html" "images/covers/flower2.jpg" }}
-
 {{ end }}
 
 {{ partial "village.html" $globalData }}
